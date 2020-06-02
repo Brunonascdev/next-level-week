@@ -14,6 +14,55 @@
 
 ![Next Level Week Wallpaper](https://i.ibb.co/30VDgZL/1920x1080.jpg)
 
+## Projeto Ecoleta ♻️
+<h1 align="center"><img src="https://i.ibb.co/8X5QGH8/Novo-Projeto.png" /></h1>
+
+O Ecoleta têm por função criar uma conexão com as empresas/entidades que coletam material orgânico/inorgânico com pessoas que precisam da coletagem do mesmo.
+
+## Screenshots :camera:
+### Web
+
+![Home](https://i.ibb.co/ZN7jy0P/Home.png);
+
+### Mobile
+
+![Mobile](https://i.ibb.co/ssvY39t/In-cio.png);
+
+#### Acesse a prototipagem do projeto [Clicando aqui.](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=4%3A422)
+
+## Tecnologias
+### Servidor
+
+• [Nodejs](https://nodejs.org/en/)
+
+• [TypeScript](https://www.typescriptlang.org/)
+
+-- Dependências --
+
+• [Express](https://expressjs.com/pt-br/)
+
+• [Knex](http://knexjs.org/)
+
+Banco de Dados
+
+• [SQLite](https://www.sqlite.org/index.html)
+
+### Web
+
+• [ReactJS](https://pt-br.reactjs.org/)
+
+-- Dependências --
+
+Por vir!
+
+### Mobile
+
+• [React Native](https://reactnative.dev/)
+
+-- Dependências --
+
+Por vir!
+
 ## Começando :heavy_check_mark:
 
 Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local.
