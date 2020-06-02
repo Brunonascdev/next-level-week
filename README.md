@@ -22,11 +22,11 @@ O Ecoleta têm por função criar uma conexão com as empresas/entidades que col
 ## Screenshots :camera:
 ### Web
 
-![Home](https://i.ibb.co/ZN7jy0P/Home.png);
+![Home](https://i.ibb.co/ZN7jy0P/Home.png)
 
 ### Mobile
 
-![Mobile](https://i.ibb.co/ssvY39t/In-cio.png);
+![Mobile](https://i.ibb.co/ssvY39t/In-cio.png)
 
 #### Acesse a prototipagem do projeto [Clicando aqui.](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=4%3A422)
 
@@ -116,3 +116,7 @@ cd frontend
 npm install // ou yarn
 npx start // ou yarn start
 ```
+
+
+<hr />
+<h6 align="center"> Made With 💜 By @brunonascdev and @Rocketseat </h6>
