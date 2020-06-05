@@ -22,11 +22,15 @@ O Ecoleta têm por função criar uma conexão com as empresas/entidades que col
 ## Screenshots :camera:
 ### Web
 
-![Home](https://i.ibb.co/ZN7jy0P/Home.png)
+<h1 align="center">
+  <img src="https://i.ibb.co/ZN7jy0P/Home.png" />
+</h1>
 
 ### Mobile
 
-![Mobile](https://i.ibb.co/ssvY39t/In-cio.png)
+<h1 align="center">
+  <img src="https://media.giphy.com/media/gF2z4iWMwcKhwYRlPH/giphy.gif" />
+ </h1>
 
 #### Acesse a prototipagem do projeto [Clicando aqui.](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=4%3A422)
 
@@ -53,7 +57,13 @@ Banco de Dados
 
 -- Dependências --
 
-Por vir!
+• [Leaftlet](https://leafletjs.com/)
+
+• [Axios](https://github.com/axios/axios)
+
+• [React Router](https://reacttraining.com/react-router/)
+
+• [React Icons](https://react-icons.github.io/react-icons/)
 
 ### Mobile
 
@@ -61,7 +71,21 @@ Por vir!
 
 -- Dependências --
 
-Por vir!
+• [Axios](https://github.com/axios/axios)
+
+• [@react-native-community/picker](https://github.com/react-native-community/react-native-picker)
+
+• [eact-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+
+• [expo-location](https://docs.expo.io/versions/latest/sdk/location/)
+
+• [expo-mail-composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
+
+• [react-native-maps](https://github.com/react-native-community/react-native-maps)
+
+• [react-native-svg](https://github.com/react-native-community/react-native-svg)
+
+• [react-native-unimodules](https://github.com/unimodules/react-native-unimodules)
 
 ## Começando :heavy_check_mark:
 
@@ -70,6 +94,8 @@ Essas instruções fornecerão uma cópia do projeto em execução na sua máqui
 ### Pré-requisitos :pencil:
 
 • [Node](https://nodejs.org/en/);
+
+• Ambiente de desenvolvimento pré-configurado para rodar o React Native. Caso não possua, [acesse esse link](https://react-native.rocketseat.dev/) e siga o tutorial.
 
 ### Instalando :inbox_tray:
 Siga passo a passo as seguinte formas de obter o código na sua máquina local.
@@ -116,7 +142,13 @@ cd frontend
 npm install // ou yarn
 npx start // ou yarn start
 ```
+Para instalar as dependências e executar o Mobile (Com o emulador do Android Studio Aberto, ou caso esteja no MacOs, com o emulador do xCode aberto).
+``` 
+cd mobile
+npm install // ou yarn
+npx react-native run-android // ou caso esteja no ios, npx react-native run-ios
+```
 
 
 <hr />
-<h6 align="center"> Made With 💜 By @brunonascdev and @Rocketseat </h6>
+<h6 align="center"> Made with 💜 by @brunonascdev and @Rocketseat </h6>
