@@ -151,4 +151,4 @@ npx react-native run-android // ou caso esteja no ios, npx react-native run-ios
 
 
 <hr />
-<h6 align="center"> Made With 💜 By @brunonascdev and @Rocketseat </h6>
+<h6 align="center"> Made with 💜 by @brunonascdev and @Rocketseat </h6>
