@@ -15,7 +15,7 @@
     "@react-navigation/native": "^5.5.0",
     "@react-navigation/stack": "^5.4.1",
     "@types/react-native-vector-icons": "^6.4.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo-location": "^8.1.0",
     "expo-mail-composer": "^8.1.0",
     "react": "16.11.0",
